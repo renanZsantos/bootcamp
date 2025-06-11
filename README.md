@@ -1,3 +1,8 @@
+🌐 Acesse o projeto
+
+🔗 [Clique aqui para ver online](https://renanZsantos.github.io/Projeto-responsivo)  
+📁 [Código-fonte no GitHub](https://github.com/renanZsantos/Projeto-responsivo)
+
 💻 Projeto: Página Responsiva
 
 Este projeto foi desenvolvido como parte do meu processo de aprendizado em Front-End. O objetivo foi criar uma página totalmente responsiva utilizando HTML5, CSS3 e Flexbox, aplicando conceitos de Mobile First e boas práticas de organização do código.
@@ -26,11 +31,6 @@ Durante o desenvolvimento, pratiquei e consolidei conhecimentos sobre:
 - Estilização com Flexbox e responsividade
 - Organização de arquivos e estrutura de projeto
 - Deploy no GitHub Pages
-
-🌐 Acesse o projeto
-
-🔗 [Clique aqui para ver online](https://renanZsantos.github.io/Projeto-responsivo)  
-📁 [Código-fonte no GitHub](https://github.com/renanZsantos/Projeto-responsivo)
 
 ---
 
